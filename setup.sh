@@ -1,5 +1,5 @@
 sudo apt-get update && sudo apt-get -y upgrade
-sudo apt-get install -y npm supervisor
+sudo apt-get install -y npm supervisor fswebcam
 sudo npm install -g npm
 cd ~
 git clone --recursive https://github.com/lip-realmax/3dCamera.git
