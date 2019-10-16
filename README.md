@@ -10,5 +10,7 @@ Assuming you are at the default user directory, e.g. /home/user/, or just run<br
 <br>All the setup steps should be run automatically with<br>
 `./setup.sh`
 <br>After finished, clean-up<br>
+`cd ~`
+`rm -r 3DBodyScanner`
 `rm ./setup.sh`
 <br>Reboot your device!
